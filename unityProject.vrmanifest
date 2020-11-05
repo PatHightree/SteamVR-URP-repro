@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.steamvru2019.4.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "X:\\SteamVR U2019.4\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "SteamVR U2019.4 [Testing]"
+        }
+      }
+    }
+  ]
+}
